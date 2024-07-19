@@ -1,4 +1,4 @@
-from micrograd.engine import Scalar
+from tardigrad.engine import Scalar
 import random
 
 class Init:
