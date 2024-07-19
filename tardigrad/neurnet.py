@@ -1,6 +1,5 @@
-from engine import Scalar
+from micrograd.engine import Scalar
 import random
-import math
 
 class Init:
 

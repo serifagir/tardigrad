@@ -1,6 +1,3 @@
-import math
-
-
 class Scalar:
 
     def __init__(self, data, _children=(), _op=''):
